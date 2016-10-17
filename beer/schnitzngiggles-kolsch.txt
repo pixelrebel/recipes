@@ -1,0 +1,58 @@
+
+Recipe: Schnitzngigglës Kölsch
+Brewer: Jamie Evans
+Asst Brewer: 
+Style: Kölsch
+TYPE: All Grain
+Taste: (30.0) Initial tasting uncarbed before lagering (4 weeks):  
+Great mouthfeel and flavor, the hops are a bit too subdued.  
+I wouldn't mess with the water profile.  
+In the future maybe increase by 5-10 IBU.
+
+Tapped (6 weeks):
+Very hazy initially, probably due to whirlfloc.
+
+Recipe Specifications
+--------------------------
+Boil Size: 8.00 gal
+Post Boil Volume: 5.45 gal
+Batch Size (fermenter): 5.75 gal   
+Bottling Volume: 5.05 gal
+Estimated OG: 1.044 SG
+Estimated Color: 4.0 SRM
+Estimated IBU: 25.4 IBUs
+Brewhouse Efficiency: 78.00 %
+Est Mash Efficiency: 84.8 %
+Boil Time: 90 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+8.00 gal              Distilled Water (Brewer's Friend 5RYHR4S Water         1        -             
+4.00 ml               Lactic Acid (Mash 60.0 mins)             Water Agent   2        -             
+2.40 g                Calcium Chloride (Mash 60.0 mins)        Water Agent   3        -             
+2.40 g                Gypsum (Calcium Sulfate) (Mash 60.0 mins Water Agent   4        -             
+8.0 oz                Rice Hulls (0.0 SRM)                     Adjunct       5        5.4 %         
+6 lbs 12.0 oz         Pilsner (2 Row) Ger (2.0 SRM)            Grain         6        73.0 %        
+1 lbs                 Wheat Malt, Ger (2.0 SRM)                Grain         7        10.8 %        
+12.0 oz               Light Munich Malt (6.0 SRM)              Grain         8        8.1 %         
+4.0 oz                Honey Malt (25.0 SRM)                    Grain         9        2.7 %         
+0.50 oz               Perle [8.00 %] - Boil 60.0 min           Hop           10       13.9 IBUs     
+1.00 oz               Tettnang [4.75 %] - Boil 25.0 min        Hop           11       11.5 IBUs     
+1.0 pkg               German Ale/Kolsch (White Labs #WLP029) [ Yeast         12       -             
+
+
+Mash Schedule: Single Infusion, Light Body, Batch Sparge
+Total Grain Weight: 9 lbs 4.0 oz
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Mash In           Add 14.56 qt of water at 157.9 F        149.0 F       75 min        
+Mash Out          Add 8.00 qt of water at 206.6 F         168.0 F       10 min        
+
+Sparge: Batch sparge with 2 steps (Drain mash tun , 4.38gal) of 168.0 F water
+Notes:
+------
+Gelatin added at kegging 7/19/15
+
+Tapped 8/1/15 - 6 weeks total
+
