@@ -1,0 +1,50 @@
+
+Recipe: Maibock
+Brewer: Jamie Evans
+Asst Brewer: 
+Style: Mailbock/Helles Bock
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 8.33 gal
+Post Boil Volume: 6.46 gal
+Batch Size (fermenter): 5.65 gal   
+Bottling Volume: 4.95 gal
+Estimated OG: 1.068 SG
+Estimated Color: 6.5 SRM
+Estimated IBU: 26.2 IBUs
+Brewhouse Efficiency: 75.00 %
+Est Mash Efficiency: 81.6 %
+Boil Time: 90 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+11.00 gal             Distilled Water (Brewer's Friend G0S5ZD0 Water         1        -             
+6.00 g                Calcium Chloride (Mash 60.0 mins)        Water Agent   2        -             
+2.00 g                Epsom Salt (MgSO4) (Mash 60.0 mins)      Water Agent   3        -             
+2.00 g                Gypsum (Calcium Sulfate) (Mash 60.0 mins Water Agent   4        -             
+7 lbs 6.0 oz          Pilsner (2 Row) Ger (2.0 SRM)            Grain         5        52.7 %        
+4 lbs 4.0 oz          Vienna Malt (3.5 SRM)                    Grain         6        30.4 %        
+1 lbs 6.0 oz          Munich Light Malt (7.0 SRM)              Grain         7        9.8 %         
+10.0 oz               Melanoiden Malt (20.0 SRM)               Grain         8        4.5 %         
+6.0 oz                Acid Malt (3.0 SRM)                      Grain         9        2.7 %         
+0.50 oz               Magnum [13.00 %] - Boil 60.0 min         Hop           10       20.0 IBUs     
+1.00 oz               Hallertauer Mittelfrueh [4.00 %] - Boil  Hop           11       6.1 IBUs      
+1.00 oz               Hallertauer Mittelfrueh [4.00 %] - Steep Hop           12       0.0 IBUs      
+1.0 pkg               German Bock Lager (White Labs #WLP833) [ Yeast         13       -             
+
+
+Mash Schedule: Single Infusion, Light Body, Batch Sparge
+Total Grain Weight: 14 lbs
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Mash In           Add 21.50 qt of water at 157.0 F        148.0 F       75 min        
+
+Sparge: Batch sparge with 2 steps (0.97gal, 4.67gal) of 168.0 F water
+Notes:
+------
+
+Deliciously malty, one of the best beers I've made.  
