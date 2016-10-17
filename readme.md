@@ -2,6 +2,7 @@
 
 ## Beer
 
+- **[Maibock](beer/maibock.txt)**
 - **[Schnitzngigglës Kölsch](beer/schnitzngiggles-kolsch.txt)**
 
 ## Bread
