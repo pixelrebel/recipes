@@ -9,6 +9,10 @@
 
 - **[Nine Grain Rustic Bread](bread/9grain.md)**
 
+## Salsa
+
+- **[Chipotle Heaven](salsa/chipotle-heaven.md)**
+
 ## Contributing
 
 Pull requests are encouraged for any battle-tested and well-described recipes of any category.  
