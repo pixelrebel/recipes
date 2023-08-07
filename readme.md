@@ -13,6 +13,12 @@
 
 - **[Chipotle Heaven](salsa/chipotle-heaven.md)**
 
+## Sides
+
+- **[Frijoles de la Olla](sides/frijoles-de-la-olla.md)**
+- **[Spanish Rice](sides/spanish-rice.md)**
+- **[Tortillas](sides/tortillas.md)**
+
 ## Contributing
 
 Pull requests are encouraged for any battle-tested and well-described recipes of any category.  
