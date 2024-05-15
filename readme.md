@@ -8,6 +8,12 @@
 ## Bread
 
 - **[Nine Grain Rustic Bread](bread/9grain.md)**
+- **[Naan](bread/naan.md)**
+
+## Entrees
+
+- **[Spaghetti Sauce](salsa/spaghetti-sauce.md)**
+- **[Tandoori Chicken](salsa/tandoori-chicken.md)**
 
 ## Salsa
 
@@ -15,8 +21,10 @@
 
 ## Sides
 
+- **[Daal](sides/daal.md)**
 - **[Frijoles de la Olla](sides/frijoles-de-la-olla.md)**
 - **[Spanish Rice](sides/spanish-rice.md)**
+- **[Saffron Rice](sides/saffron-rice.md)**
 - **[Tortillas](sides/tortillas.md)**
 
 ## Contributing
