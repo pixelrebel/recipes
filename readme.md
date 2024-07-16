@@ -12,8 +12,8 @@
 
 ## Entrees
 
-- **[Spaghetti Sauce](salsa/spaghetti-sauce.md)**
-- **[Tandoori Chicken](salsa/tandoori-chicken.md)**
+- **[Spaghetti Sauce](entrees/spaghetti-sauce.md)**
+- **[Tandoori Chicken](entrees/tandoori-chicken.md)**
 
 ## Salsa
 
